@@ -1,0 +1,10 @@
+{
+  "name": "nodejs-router",
+  "version": "1.0.0",
+  "description": "Simple router for node.js",
+  "main": "index.js",
+  "repository": "git@github.com:PZBird/nodejs-router.git",
+  "author": "Pavel Zabelin <PZBird@gmail.com>",
+  "license": "The Unlicense",
+  "private": false
+}
